@@ -31,8 +31,6 @@ This project focuses on analyzing YouTube statistics using Python and various da
 - Videos tend to trend within a hundred days after publishing.
 - Tags and descriptions reflect common themes in video content.
 
-Certainly, here's a brief conclusion in README format:
-
 ## Conclusion
 
 This comprehensive analysis of YouTube statistics unveils valuable insights into user preferences, engagement patterns, and category popularity across multiple countries. Through meticulous data cleaning, processing, and exploration utilizing Python and various data analysis libraries, this project sheds light on trending videos, user engagement metrics, and category preferences.
